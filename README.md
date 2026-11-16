@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**avkvard/avkvard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="terminal.svg" alt="avkvard@github terminal" width="100%"/>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:avkvard@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="EMAIL"/></a>
+
+</div>
+
+<br/>
+
+<img src="build.svg" alt="Let's build together" width="100%"/>
